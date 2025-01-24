@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I'm HyeJin 👋
 
-<!--
-**HyeJinSeok/HyeJinSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Cloud Engineering.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on various projects in Cloud Engineering and related fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with optimizing cloud infrastructure and enhancing scalability.
+
+💬 Ask me about how I make my projects and my approach to learning new technologies.
+
+📫 How to reach me: u3afguu@naver.com
+
+⚡ Fun fact: I believe in continuous improvement and always strive to get better.
+
+

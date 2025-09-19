@@ -15,7 +15,6 @@ Kubernetes，AWS，VPN 환경에서의 실습 경험이 있습니다.
 ## 🤖 AI & ML
 
 ### · 작업 부담(Task Load) 분석과 맞춤 조언 시스템 <a href="https://github.com/HyeJinSeok/2024-Graduation-Work">[2024-Graduation-Work]</a>
-
 &thinsp; 기간: 2024.05 ~ 2024.10 &thinsp;| &thinsp;기술 스택: Python, Spring Boot, PCA, LLM API
 
 

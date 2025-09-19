@@ -1,4 +1,4 @@
-# 석혜진의 Github🍀
+# 🍀석혜진의 Github
 
 AI 모델링부터 웹 개발, 클라우드 인프라까지 다양한 프로젝트를 경험했습니다.  
 
@@ -7,6 +7,8 @@ AI 모델링부터 웹 개발, 클라우드 인프라까지 다양한 프로젝�
 AI，Computer Vision，CNN，LLM 분야에 관심이 있습니다.
 
 또한 Kubernetes，AWS，VPN 환경에서의 실습 경험이 있습니다.  
+
+기술 블로그: [https://blog.naver.com/u3afguu](https://blog.naver.com/u3afguu)
 
 <br>
 
@@ -49,7 +51,7 @@ AI，Computer Vision，CNN，LLM 분야에 관심이 있습니다.
 # ⚙️ Systems & Data Infra
 
 ### • TCP 소켓 기반 클라이언트 - 서버 파일 전송 <a href="https://github.com/HyeJinSeok/tcp-socket-client-server">[tcp-socket-client-server]</a>  
-&thinsp; 기간: 2023.10 ~ 2023.12 &thinsp;| &thinsp;기술 스택: C, POSIX Socket API, File I/O
+&thinsp; 기간: 2023.10 ~ 2023.12 &thinsp;| &thinsp;기술 스택: C, POSIX Socket API
 
 ### • 멀티 프로세싱 기반 #include 카운터 <a href="https://github.com/HyeJinSeok/multi-fork-scan">[multi-fork-scan]</a>  
 &thinsp; 기간: 2023.09 ~ 2023.11 &thinsp;| &thinsp;기술 스택: C, Linux

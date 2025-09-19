@@ -16,8 +16,7 @@ Kubernetes，AWS，VPN 환경에서의 실습 경험이 있습니다.
 
 ### · 작업 부담(Task Load) 분석과 맞춤 조언 시스템 <a href="https://github.com/HyeJinSeok/2024-Graduation-Work">[2024-Graduation-Work]</a>
 
-&thinsp; NASA TLX 기반의 주관적 입력을 PCA로 해석하고 LLM로 맞춤형 조언을 제공하는 프로젝트 <br>
-&thinsp; `기간: 2024.05 ~ 2024.10` &thinsp;| &thinsp;`기술 스택: Python, Spring Boot, PCA, LLM API`
+&thinsp; 기간: 2024.05 ~ 2024.10 &thinsp;| &thinsp;기술 스택: Python, Spring Boot, PCA, LLM API
 
 
 ### · VGG16 전이학습을 통한 개·고양이 이미지 분류

@@ -14,80 +14,24 @@ Kubernetes，AWS，VPN 환경에서의 실습 경험이 있습니다.
 
 ## 🤖 AI & ML
 
-### · 작업 부담(Task Load) 분석과 맞춤 조언 시스템 <a href="https://github.com/HyeJinSeok/2024-Graduation-Work">[2024-Graduation-Work]</a>
+### ▪ 작업 부담(Task Load) 분석과 맞춤 조언 시스템 <a href="https://github.com/HyeJinSeok/2024-Graduation-Work">[2024-Graduation-Work]</a>
 &thinsp; 기간: 2024.05 ~ 2024.10 &thinsp;| &thinsp;기술 스택: Python, Spring Boot, PCA, LLM API
 
 
-### · VGG16 전이학습을 통한 개·고양이 이미지 분류
-
-&thinsp; 사전학습된 VGG16 모델을 활용해 이미지를 분류하고 CNN 구조의 전이학습 효과를 실험한 프로젝트
-
-<table>
-  <tr>
-    <td>깃허브 링크</td>
-    <td>기간</td>
-    <td>기술 스택</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HyeJinSeok/transfer-learning-vgg16-cnn">transfer-learning-vgg16-cnn</a></td>
-    <td> 2024.09 ~ 2024.10</td>
-    <td>Python · TensorFlow · Keras · CNN · VGG16</td>
-  </tr>
-</table>
+### ▪ VGG16 전이학습을 통한 개·고양이 이미지 분류 <a href="https://github.com/HyeJinSeok/transfer-learning-vgg16-cnn">[transfer-learning-vgg16-cnn]</a>  
+&thinsp; 기간: 2024.09 ~ 2024.10 &thinsp;| &thinsp;기술 스택: Python, TensorFlow, Keras, CNN, VGG16
 
 
-### · 실시간 졸음 감지 시스템
-
-&thinsp; OpenCV와 dlib을 통한 얼굴 랜드마크를 기반으로 눈 깜빡임(EAR) 및 졸음을 판정하는 프로젝트
-
-<table>
-  <tr>
-    <td>깃허브 링크</td>
-    <td>기간</td>
-    <td>기술 스택</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HyeJinSeok/sleep-detection">sleep-detection</a></td>
-    <td>2023.05 ~ 2023.06</td>
-    <td>Python · OpenCV · dlib · NumPy · SciPy</td>
-  </tr>
-</table>
+### ▪ 실시간 졸음 감지 시스템 <a href="https://github.com/HyeJinSeok/sleep-detection">[sleep-detection]</a>  
+&thinsp; 기간: 2023.05 ~ 2023.06 &thinsp;| &thinsp;기술 스택: Python, OpenCV, dlib, NumPy, SciPy
 
 
-### · SVM 커널 비교 및 최적화
-
-&thinsp; Digits 데이터셋으로 Linear, RBF, Sigmoid 커널을 비교하고 GridSearchCV와 앙상블을 적용한 프로젝트
-
-<table>
-  <tr>
-    <td>깃허브 링크</td>
-    <td>기간</td>
-    <td>기술 스택</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HyeJinSeok/svm-digits-classifier">svm-digits-classifier</a></td>
-    <td>2023.05 ~ 2023.06</td>
-    <td>Python · scikit-learn · PCA · GridSearchCV · Ensemble</td>
-  </tr>
-</table>
+### ▪ SVM 커널 비교 및 최적화 <a href="https://github.com/HyeJinSeok/svm-digits-classifier">[svm-digits-classifier]</a>  
+&thinsp; 기간: 2023.05 ~ 2023.06 &thinsp;| &thinsp;기술 스택: Python, scikit-learn, PCA, GridSearchCV, Ensemble
 
 
-### · NLP 단어 임베딩
-
-&thinsp; BoW와 Word2Vec을 활용해 단어를 벡터로 표현하고 단어 간 의미적 유사성을 분석한 프로젝트
-
-<table>
-  <tr>
-    <td>깃허브 링크</td>
-    <td>기간</td>
-    <td>기술 스택</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HyeJinSeok/nlp-word-representation">nlp-word-representation</a></td>
-    <td>2023.09 ~ 2023.11</td>
-    <td>Python · NLTK · pandas · scikit-learn · KoNLPy · gensim</td>
-  </tr>
-</table>
+### ▪ NLP 단어 임베딩 <a href="https://github.com/HyeJinSeok/nlp-word-representation">[nlp-word-representation]</a>  
+&thinsp; 기간: 2023.09 ~ 2023.11 &thinsp;| &thinsp;기술 스택: Python, NLTK, pandas, scikit-learn, KoNLPy, gensim
 
 
 ## 💻 Web & App

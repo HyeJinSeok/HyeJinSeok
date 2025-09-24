@@ -51,7 +51,7 @@ AI，Computer Vision，CNN，LLM 분야에 관심이 있습니다.
 
 <br>
 
-# ⚙️ Systems & Data Infra
+# 🛠️ Systems & Data Infra
 
 ### • TCP 소켓 기반 클라이언트 - 서버 파일 전송 <a href="https://github.com/HyeJinSeok/tcp-socket-client-server">[tcp-socket-client-server]</a>  
 &thinsp; 기간: 2023.10 ~ 2023.12 &thinsp;| &thinsp;기술 스택: C, POSIX Socket API

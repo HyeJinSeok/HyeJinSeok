@@ -46,6 +46,9 @@ AI，Computer Vision，CNN，LLM 분야에 관심이 있습니다.
 ### • 서울 공원 검색 시스템 <a href="https://github.com/HyeJinSeok/Parkpal">[Parkpal-search]</a>  
 &thinsp; 기간: 2025.01.08 ~ 2025.01.13 &thinsp;| &thinsp;기술 스택: Java, JSP, Servlet, JDBC, MySQL
 
+### • One DB 다중 앱 구조 실습 <a href="https://github.com/HyeJinSeok/OneDB_MultiApp">[onedb-multiapp]</a>  
+&thinsp; 기간: 2024.03.21 ~ 2024.03.22 &thinsp;| &thinsp;기술 스택: Java, Spring Boot, MySQL, Docker, Docker Compose
+
 <br>
 
 # ⚙️ Systems & Data Infra
@@ -57,4 +60,23 @@ AI，Computer Vision，CNN，LLM 분야에 관심이 있습니다.
 &thinsp; 기간: 2023.09 ~ 2023.11 &thinsp;| &thinsp;기술 스택: C, Linux
 
 ### • ELK를 활용한 쇼핑몰 데이터 분석 및 검색 최적화 <a href="https://github.com/HyeJinSeok/ELK">[elk-analytics]</a>  
-&thinsp; 기간: 2025.01.14 ~ 2025.01.20 &thinsp;| &thinsp;기술 스택: Elasticsearch, Logstash, Kibana, MySQL
+&thinsp; 기간: 2025.01.22 ~ 2025.01.24 &thinsp;| &thinsp;기술 스택: Elasticsearch, Logstash, Kibana, MySQL
+
+### • ELK 환경 구축 자동화 <a href="https://github.com/HyeJinSeok/ELK-ubuntu">[elk-ubuntu]</a> 
+&thinsp; 기간: 2025.01.15 ~ 2025.01.17 &thinsp;| &thinsp;기술 스택: Ubuntu, Elasticsearch, Logstash, Kibana, Shell Script
+
+### • 리눅스 기반 침입 탐지 시스템 <a href="https://github.com/HyeJinSeok/Linux-IDS">[linux-ids]</a>  
+&thinsp; 기간: 2025.03.19 ~ 2025.03.21 &thinsp;| &thinsp;기술 스택: Linux, Bash Script, Cron, grep
+
+### • Prometheus & Grafana 모니터링 실습 <a href="https://github.com/HyeJinSeok/Prometheus_Grafana_Monitoring">[prometheus-grafana-monitoring]</a>  
+&thinsp; 기간: 2025.04.04 ~ 2025.04.06 &thinsp;| &thinsp;기술 스택: Docker, Prometheus, Grafana, VirtualBox, NAT
+
+<br>
+
+# 🛰️ Cloud & AWS Infra
+
+### • 수동 VPC 구성 실습 <a href="https://github.com/HyeJinSeok/manual-vpc-config">[manual-vpc-config]</a>  
+&thinsp; 기간: 2025.04.05 ~ 2025.04.07 &thinsp;| &thinsp;기술 스택: AWS VPC, Subnet, NAT Gateway, Internet Gateway
+
+### • Private VPC 환경에서의 Jenkins 배포 <a href="https://github.com/HyeJinSeok/Private-Jenkins-in-VPC">[private-jenkins-vpc]</a>  
+&thinsp; 기간: 2025.04.08 ~ 2025.04.09 &thinsp;| &thinsp;기술 스택: AWS VPC, EC2, Jenkins, Security Group, SSH Tunnel

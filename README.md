@@ -62,7 +62,7 @@ AI，Computer Vision，CNN，LLM 분야에 관심이 있습니다.
 ### • ELK를 활용한 쇼핑몰 데이터 분석 및 검색 최적화 <a href="https://github.com/HyeJinSeok/ELK">[elk-analytics]</a>  
 &thinsp; 기간: 2025.01.22 ~ 2025.01.24 &thinsp;| &thinsp;기술 스택: Elasticsearch, Logstash, Kibana, MySQL
 
-### • ELK 환경 구축 자동화 <a href="https://github.com/HyeJinSeok/ELK-ubuntu">[elk-ubuntu]</a> 
+### • ELK 환경 구축 자동화 <a href="https://github.com/HyeJinSeok/elk-stack-ubuntu">[elk-stack-ubuntu]</a> 
 &thinsp; 기간: 2025.01.15 ~ 2025.01.17 &thinsp;| &thinsp;기술 스택: Ubuntu, Elasticsearch, Logstash, Kibana, Shell Script
 
 ### • 리눅스 기반 침입 탐지 시스템 <a href="https://github.com/HyeJinSeok/Linux-IDS">[linux-ids]</a>  
